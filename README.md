@@ -1,2 +1,1 @@
-# FunctionIntroduce
-含講稿
+# EDA learning - 4.Functions
